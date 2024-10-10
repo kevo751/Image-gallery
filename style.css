@@ -1,10 +1,10 @@
 body,html {
-    background-color: white;
+    background-color: #c0f8fc;
 }
 .flex-container {
     display: flex;
-    background-color: #70b8b8;
-    padding-left: 370px;
+    background-color: #c0f8fc;
+    padding-left: 325px;
   }
   
   .flex-container > div {
