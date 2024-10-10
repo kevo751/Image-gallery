@@ -1,0 +1,22 @@
+body,html {
+    background-color: white;
+}
+.flex-container {
+    display: flex;
+    background-color: #70b8b8;
+    padding-left: 370px;
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+ #xyz {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Sixtyfour Convergence", sans-serif;
+  }
+  
+ 
